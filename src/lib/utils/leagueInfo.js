@@ -8,7 +8,10 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
   <p>League rules can be found <a href="https://actually-chill-031.notion.site/Dynomite-Dynasty-Fantasy-Football-a14a14ee86c049059a6c4b8b36f6910d">here</a>.</p>
-  <p>Dynomite ws founded in the 2023-24 NFL season. We're a dynasty fantasy football league using the Sleeper platform.</p>
+  <p>Founded in the 2023-24 NFL season.</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
 `;
 
 /*   STEP 3   */
