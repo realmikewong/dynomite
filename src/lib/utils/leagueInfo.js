@@ -10,8 +10,28 @@ export const homepageText = `
   <p>League rules can be found <a href="https://actually-chill-031.notion.site/Dynomite-Dynasty-Fantasy-Football-a14a14ee86c049059a6c4b8b36f6910d">here</a>.</p>
   <p>Founded in the 2023-24 NFL season.</p>
   <p>&nbsp;</p>
-  <p>&nbsp;</p>
-  <p>&nbsp;</p>
+  <h2>Past League Winners</h2>
+  <p>
+    <ul>
+      <li>2023 - Mike Wong</li>
+      <li>2024 - Nate Wong</li>
+    </ul>
+  </p>
+  <h2>2025 Draft Order</h2>
+  <p>
+    <ol>
+    <li>Silence of the Lamb</li>
+    <li>Amon Feel the Noize</li>
+    <li>Thunder Bolts</li>
+    <li>Team Gersty</li>
+    <li>Team Hambeano</li>
+    <li>Team Gonehuntin</li>
+    <li>Winner</li>
+    <li>Etienne Tua Brute</li>
+    <li>To Infinity and Bijan</li>
+    <li>LaPorta Potty</li>
+    </ol>
+  </p>
 `;
 
 /*   STEP 3   */
