@@ -24,10 +24,10 @@ export const homepageText = `
     <li>Amon Feel the Noize</li>
     <li>Thunder Bolts</li>
     <li>Team Gersty</li>
-    <li>Team Hambeano</li>
     <li>Team Gonehuntin</li>
-    <li>Winner</li>
+    <li>Team Hambeano</li>
     <li>Etienne Tua Brute</li>
+    <li>Winner</li>
     <li>To Infinity and Bijan</li>
     <li>LaPorta Potty</li>
     </ol>
